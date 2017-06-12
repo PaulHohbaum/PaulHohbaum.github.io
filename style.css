@@ -1,0 +1,44 @@
+.header,.projects{
+    background-position: center;
+    background-size: cover;
+    font-family: sans-serif;
+    
+}
+
+.header{
+    background-image: url("https://drive.google.com/uc?export=download&id=0B6ptQ0Y64iYyLU1sdWRvTlZpTHM");
+    height: 500px;
+    width: 100%;
+}
+
+.projects{
+    height: 300px;
+    width: 100%;
+}
+
+.projects{
+    background-color: #220011;;
+    background-position: center;
+    background-size: cover;
+    
+}
+
+#header-text,#projects-text{
+       
+    margin: 0 auto;
+    position: relative;
+    text-align: center;
+}
+
+#header-text{
+    color: #FFFFFF;
+    top: 65%;
+    width: 55%;
+}
+
+#projects-text{
+    color: #FFFFFF;
+    top: 30%;
+    width:50%;
+}
+
